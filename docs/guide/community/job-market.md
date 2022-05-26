@@ -23,6 +23,7 @@ A significant percentage of the income is distributed to the authors of both Vue
 
 * [List of 300 VueJS Interview Questions And Answers](https://github.com/sudheerj/vuejs-interview-questions)
 * [Vue js Interview questions and answers](https://www.onlineinterviewquestions.com/vue-js-interview-questions/)
+* [JavaScript MCQ Interview questions and answers](https://quizack.com/javascript/questions-and-answers)
 
 </useful-links-section>
 </useful-links>
